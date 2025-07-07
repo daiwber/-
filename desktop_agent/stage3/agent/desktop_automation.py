@@ -240,6 +240,7 @@ class DesktopAutomationAgent:
                 pyautogui.click(center_x, center_y)
                 time.sleep(0.5)
                 pyautogui.write(value)
+                time.sleep(1)
                 pyautogui.press('enter')
                 return f"实际输入: '{value}' 到 {target}"
 
