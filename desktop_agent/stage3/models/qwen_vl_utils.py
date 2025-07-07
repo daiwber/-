@@ -18,7 +18,3 @@ def load_model_and_processor():
 
     return model, processor
 
-
-def process_vision_info(messages):
-    """处理视觉信息（具体实现）"""
-    # 这里是实际实现，与原始代码相同
