@@ -57,7 +57,6 @@
 
 ### 启动应用
 
-```bash
 python main.py
 
 ## 应用将在本地启动，访问地址：[http://localhost:7860](http://localhost:7860)
@@ -100,6 +99,7 @@ python main.py
 
 ### 项目结构
 
+```
 desktop-automation-agent/
 ├── agent/                  # 智能体核心逻辑
 │   ├── init.py
@@ -123,7 +123,7 @@ desktop-automation-agent/
 ├── config.py               # 配置文件
 ├── main.py                 # 主入口
 └── requirements.txt        # 依赖列表
-
+```
 
 
 ### 贡献指南
@@ -147,4 +147,4 @@ desktop-automation-agent/
 - 邮箱：your.email@example.com
 - GitHub Issues：[https://github.com/yourusername/desktop-automation-agent/issues](https://github.com/yourusername/desktop-automation-agent/issues)
 
-> **注意**：由于网络原因，我无法成功解析您提供的链接。如果您需要访问这些链接，请检查链接的合法性，并尝试重新加载网页。如果问题仍然存在，可能是网络连接问题，请稍后再试。
+
