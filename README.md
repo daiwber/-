@@ -144,7 +144,6 @@ desktop-automation-agent/
 
 如有任何问题或建议，请联系：
 
-- 邮箱：your.email@example.com
-- GitHub Issues：[https://github.com/yourusername/desktop-automation-agent/issues](https://github.com/yourusername/desktop-automation-agent/issues)
+- 邮箱：1846327762@qq.com
 
 
