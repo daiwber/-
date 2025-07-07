@@ -22,6 +22,23 @@
 | Firefox    |          | ✓        |
 | 自定义应用 | ✓        | ✓        |
 
+## 操作演示
+
+以下是自动化操作的效果演示：
+
+### 1. 双击打开QQ应用
+
+![双击打开QQ应用](./screenshots/double_click_qq.png)
+
+### 2. 输入QQ号码
+
+![输入QQ号码](./screenshots/type_qq_number.png)
+
+### 3. 输入QQ密码
+
+![输入QQ密码](./screenshots/type_qq_password.png)
+
+
 ## 安装指南
 
 ### 前提条件
