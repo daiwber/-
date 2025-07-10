@@ -1,0 +1,12 @@
+gradio>=3.0.0
+opencv-python>=4.5.0
+numpy>=1.19.0
+torch>=2.0.0
+transformers>=4.0.0
+Pillow>=8.0.0
+torchvision>=0.11.0
+mss>=6.1.0
+pyautogui>=0.9.0
+modelscope>=1.0.0
+bitsandbytes>=0.37.0
+qwen_vl_utils==0.0.11
