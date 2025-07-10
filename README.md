@@ -51,8 +51,8 @@
 
 1. **克隆仓库**：
     ```bash
-    git clone https://github.com/yourusername/desktop-automation-agent.git
-    cd desktop-automation-agent
+    git clone https://github.com/daiwber/VisualAutoAgent.git
+    cd VisualAutoAgent
     ```
 
 2. **创建并激活虚拟环境**：
