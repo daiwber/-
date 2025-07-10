@@ -67,14 +67,19 @@
     ```
 
 4. **下载模型**：
-    - 从Hugging Face下载Qwen2.5-VL-3B-Instruct模型。
-    - 将模型放在`D:\Downloads\Model\Qwen2.5-VL-3B-Instruct`目录下。
+    
+   ```
+   modelscope download --model 'MNN/Qwen2.5-VL-3B-Instruct-MNN' --local_dir D:\Downloads\Model\Qwen2.5-VL-3B-Instruct
+   ```
+
 
 ## 使用说明
 
 ### 启动应用
 
+```
 python main.py
+```
 
 ## 应用将在本地启动，访问地址：[http://localhost:7860](http://localhost:7860)
 
