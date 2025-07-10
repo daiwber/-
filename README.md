@@ -117,7 +117,7 @@ python main.py
 ### 项目结构
 
 ```
-desktop-automation-agent/
+desktop_agent/
 ├── agent/                  # 智能体核心逻辑
 │   ├── init.py
 │   └── desktop_automation.py
